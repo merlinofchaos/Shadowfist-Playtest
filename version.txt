@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>211031</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
+<message>This is for playtest.</message>
+</version>
