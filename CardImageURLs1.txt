@@ -3081,10 +3081,12 @@ bettertomorrow/defence_perimeter.png	https://raw.githubusercontent.com/merlinofc
 bettertomorrow/demonic_heritage.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/demonic_heritage.png
 bettertomorrow/desecrated_graves.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/desecrated_graves.png
 bettertomorrow/doom_wagon.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/doom_wagon.png
+bettertomorrow/dr_malcolm_isan.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/dr_malcolm_isan.png
 bettertomorrow/dream_team.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/dream_team.png
 bettertomorrow/driving_force.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/driving_force.png
 bettertomorrow/duct_ape.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/duct_ape.png
 bettertomorrow/duelling_champion.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/duelling_champion.png
+bettertomorrow/dust_bowl_donnybrook.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/dust_bowl_donnybrook.png
 bettertomorrow/dying_wish.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/dying_wish.png
 bettertomorrow/echoing_cavern.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/echoing_cavern.png
 bettertomorrow/empty_gesture.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/empty_gesture.png
@@ -3112,6 +3114,7 @@ bettertomorrow/inside_job.png	https://raw.githubusercontent.com/merlinofchaos/Sh
 bettertomorrow/interceptor.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/interceptor.png
 bettertomorrow/isolated_banyan_grove.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/isolated_banyan_grove.png
 bettertomorrow/jacktown.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/jacktown.png
+bettertomorrow/jacktown_two.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/jacktown_two.png
 bettertomorrow/jenny_zhengs_gambit.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/jenny_zhengs_gambit.png
 bettertomorrow/jet_pack_jenny.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/jet_pack_jenny.png
 bettertomorrow/johann_bonengel.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/johann_bonengel.png
@@ -3133,7 +3136,6 @@ bettertomorrow/necromancy_stone.png	https://raw.githubusercontent.com/merlinofch
 bettertomorrow/netherworld_cartographer.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/netherworld_cartographer.png
 bettertomorrow/netherworld_conscripts.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/netherworld_conscripts.png
 bettertomorrow/netherworld_scavenger.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/netherworld_scavenger.png
-bettertomorrow/no_time_to_bleed.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/no_time_to_bleed.png
 bettertomorrow/nomad_band.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/nomad_band.png
 bettertomorrow/occult_symbols.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/occult_symbols.png
 bettertomorrow/old_buzzard.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/old_buzzard.png
@@ -3163,6 +3165,7 @@ bettertomorrow/scrapper.png	https://raw.githubusercontent.com/merlinofchaos/Shad
 bettertomorrow/shack_jack_blowback.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/shack_jack_blowback.png
 bettertomorrow/shamali_storm.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/shamali_storm.png
 bettertomorrow/shifting_sands.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/shifting_sands.png
+bettertomorrow/silius_sosius_senecio_saxa_sextus.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/silius_sosius_senecio_saxa_sextus.png
 bettertomorrow/silverback_law.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/silverback_law.png
 bettertomorrow/snow_shovel.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/snow_shovel.png
 bettertomorrow/snowmark.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/snowmark.png
@@ -3170,7 +3173,6 @@ bettertomorrow/soul_fire.png	https://raw.githubusercontent.com/merlinofchaos/Sha
 bettertomorrow/specialist.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/specialist.png
 bettertomorrow/spiked_war_rig.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/spiked_war_rig.png
 bettertomorrow/spirit_circle.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/spirit_circle.png
-bettertomorrow/squaring_off.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/squaring_off.png
 bettertomorrow/stalkers.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/stalkers.png
 bettertomorrow/stance_of_the_wandering_toad.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/stance_of_the_wandering_toad.png
 bettertomorrow/street_rat.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/street_rat.png
