@@ -1,4 +1,4 @@
-xyzzy	12-03-21
+xyzzy	11-13-21
 plugins/xyzzy/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/bot.jpg	-6212
 plugins/xyzzy/formats.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/formats.txt	101807
 plugins/xyzzy/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/plugininfo.txt	338428
@@ -58,5 +58,5 @@ plugins/xyzzy/sets/yearofthegoat.txt	https://raw.githubusercontent.com/merlinofc
 plugins/xyzzy/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/cardback.jpg	-44355
 plugins/xyzzy/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/spawned.jpg	-18038
 plugins/xyzzy/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/CardImageURLs1.txt	51778322
-CardURLFiles:
+CardImageURLs:
 CardImageURLs1.txt
