@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220205</lastupdateYYMMDD>
-<versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/masterversion.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/masterupdatelist.txt</updateurl>
-<message>A better tomorrow 2.0 and A better yesterday 2.0</message>
+<lastupdateYYMMDD>220225</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
+<message>Update plugin generator</message>
 </version>

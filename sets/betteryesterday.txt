@@ -1,4 +1,4 @@
-﻿Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Tentacles of the Squid	betteryesterday	tentacles_of_the_squid_2.png	Character	Ascended	Lodge Enforcers	3	aa	a	4					+1 Damage for each Event in your smoked pile with a different title.	
 Open Season (PaP)	betteryesterday	open_season_pap_2.png	Edge	Ascended	Edge	0	aa							All Assassins, Enforcers and Killers in play gain Assassinate. All characters in play may turn to attack other characters as if they had the ability Independent.	
 Bounty	betteryesterday	bounty_3.png	Edge	Ascended	Killer Edge	1	aa							Limited. When one or more Characters you control with Assassinate smoke a Character that is the target of their attack during combat, you gain Power equal to half (round up) the target's cost.	
