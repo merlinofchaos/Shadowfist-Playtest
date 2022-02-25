@@ -2,5 +2,5 @@
 <lastupdateYYMMDD>220225</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Update plugin generator</message>
+<message>Add proper text to qg, kp, ep, yotg</message>
 </version>

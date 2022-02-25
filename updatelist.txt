@@ -3,7 +3,7 @@ plugins/xyzzy/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist
 plugins/xyzzy/formats.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/formats.txt	101807
 plugins/xyzzy/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/plugininfo.txt	338428
 plugins/xyzzy/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/pluginpreferences.txt	192429
-plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	31995
+plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	32762
 plugins/xyzzy/packs/packdefinitions.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions.txt	1726794
 plugins/xyzzy/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions1.xml	256160
 plugins/xyzzy/packs/packdefinitions2.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions2.xml	1690263
@@ -38,14 +38,14 @@ plugins/xyzzy/sets/combatinkowloon.txt	https://raw.githubusercontent.com/merlino
 plugins/xyzzy/sets/criticalshift.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/criticalshift.txt	3083911
 plugins/xyzzy/sets/darkfuture.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/darkfuture.txt	3024244
 plugins/xyzzy/sets/empireofevil.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/empireofevil.txt	3303360
-plugins/xyzzy/sets/endgame.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/endgame.txt	315881
+plugins/xyzzy/sets/endgame.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/endgame.txt	1316995
 plugins/xyzzy/sets/flashpoint.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/flashpoint.txt	3722077
-plugins/xyzzy/sets/knightspassage.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/knightspassage.txt	347682
+plugins/xyzzy/sets/knightspassage.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/knightspassage.txt	1417335
 plugins/xyzzy/sets/modern.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/modern.txt	391105
 plugins/xyzzy/sets/netherworld.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/netherworld.txt	3298880
 plugins/xyzzy/sets/netherworld2.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/netherworld2.txt	3912505
 plugins/xyzzy/sets/promos.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/promos.txt	175713
-plugins/xyzzy/sets/queensgambit.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/queensgambit.txt	338649
+plugins/xyzzy/sets/queensgambit.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/queensgambit.txt	1403303
 plugins/xyzzy/sets/redwedding.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/redwedding.txt	2948300
 plugins/xyzzy/sets/reinforcements.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/reinforcements.txt	1250903
 plugins/xyzzy/sets/reloaded.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/reloaded.txt	1180613
@@ -56,7 +56,7 @@ plugins/xyzzy/sets/standard.txt	https://raw.githubusercontent.com/merlinofchaos/
 plugins/xyzzy/sets/thronewar.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/thronewar.txt	2168501
 plugins/xyzzy/sets/twofistedtales.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/twofistedtales.txt	3204553
 plugins/xyzzy/sets/yearofthedragon.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthedragon.txt	2463618
-plugins/xyzzy/sets/yearofthegoat.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthegoat.txt	1196908
+plugins/xyzzy/sets/yearofthegoat.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthegoat.txt	4024423
 plugins/xyzzy/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/cardback.jpg	-44355
 plugins/xyzzy/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/spawned.jpg	-18038
 plugins/xyzzy/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/CardImageURLs1.txt	52512122
