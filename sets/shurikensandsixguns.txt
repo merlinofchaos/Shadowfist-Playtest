@@ -93,8 +93,6 @@ Personality Shard	shurikensandsixguns	personality_shard_ssg	State	Architects of 
 Pony Express	shurikensandsixguns	pony_express_ssg	Edge	Dragons	Edge	1	{dra}{dra}					Uncommon	pony express	Limited. When an opponent discards a card, you may choose a Character that this card has not chosen this turn :: That Character gains +1 Fighting until it leaves play.	
 Potlatch	shurikensandsixguns	potlatch_ssg	Event	Jammers	Event	0	{jam}{jam}{jam}					Rare	potlatch	One-Shot. Put a Feng Shui Site you control in another player's burned-for-victory pile :: Gain 3 Power.	
 Queen of the Ice Pagoda	shurikensandsixguns	queen_of_the_ice_pagoda_ssg	Character	Four Monarchs	Netherworld Mastermind	6		{mon}{mag}{mag}	10			Promo	queen ice pagoda netherworld mastermind	Unique. Identity: Pi Tui. All <Ice> Characters you control gain +1 Fighting. Inflict one damage on this card :: Smoke a State on any Character you control.
-
-	
 Railroad Workers	shurikensandsixguns	railroad_workers_ssg	Character	Guiding Hand	Steel-Driving Rabble	1		{han}	1			Common	railroad worker steel driving rabble	You may sacrifice exactly one"Railroad Workers"when you play a Site :: Gain 1 Power.	
 Rainmaker Floyd	shurikensandsixguns	rainmaker_floyd_ssg	Character	Ascended	Wandering Con Man	4	{asc}{asc}{asc}	{asc}	6			Rare	rainmaker floyd wandering con man	Unique. Toughness: X. X= the number of columns in your Site structure.	
 Ranchers	shurikensandsixguns	ranchers_ssg	Character	Dragons	Cowboy Heroes	1		{dra}	1			Common	rancher cowboy hero	Toughness: 1 while the subject of any <Gun> States.	

@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220302</lastupdateYYMMDD>
+<lastupdateYYMMDD>220712</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Update text to current errata; fix titles</message>
+<message>Add Better Off Dead 1.0</message>
 </version>
