@@ -2103,7 +2103,7 @@ reloaded/kitty_kerosene_rld_400.jpg	https://raw.githubusercontent.com/merlinofch
 reloaded/lord_hawksmoor_rld_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/reloaded/lord_hawksmoor_rld_400.jpg
 reloaded/major_prescott_rogers_rld_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/reloaded/major_prescott_rogers_rld_400.jpg
 reloaded/mourning_tree_rld_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/reloaded/mourning_tree_rld_400.jpg
-reloaded/mr._x_rld_400	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/reloaded/mr._x_rld_400
+reloaded/mr_x_rld_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/reloaded/mr_x_rld_400.jpg
 reloaded/prelate_of_the_roaring_skies_rld_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/reloaded/prelate_of_the_roaring_skies_rld_400.jpg
 reloaded/ready_for_action_rld_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/reloaded/ready_for_action_rld_400.jpg
 reloaded/rigorous_discipline_rld_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/reloaded/rigorous_discipline_rld_400.jpg
