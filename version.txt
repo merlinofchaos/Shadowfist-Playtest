@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220712</lastupdateYYMMDD>
+<lastupdateYYMMDD>220716</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Fix missing Mr. X reloaded (and add Better Off Dead)</message>
+<message>Update proxy images to nicer format.</message>
 </version>

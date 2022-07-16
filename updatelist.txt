@@ -1,9 +1,9 @@
-xyzzy	07-12-22
+xyzzy	07-16-22
 plugins/xyzzy/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/bot.jpg	-6212
 plugins/xyzzy/formats.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/formats.txt	101807
 plugins/xyzzy/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/plugininfo.txt	338428
 plugins/xyzzy/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/pluginpreferences.txt	192429
-plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	34149
+plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	33133
 plugins/xyzzy/packs/packdefinitions.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions.txt	1726794
 plugins/xyzzy/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions1.xml	256160
 plugins/xyzzy/packs/packdefinitions2.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions2.xml	1690263
@@ -58,6 +58,7 @@ plugins/xyzzy/sets/thronewar.txt	https://raw.githubusercontent.com/merlinofchaos
 plugins/xyzzy/sets/twofistedtales.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/twofistedtales.txt	3219455
 plugins/xyzzy/sets/yearofthedragon.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthedragon.txt	2447505
 plugins/xyzzy/sets/yearofthegoat.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthegoat.txt	3979482
+plugins/xyzzy/sets/.DS_Store	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/.DS_Store	3463
 plugins/xyzzy/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/cardback.jpg	-44355
 plugins/xyzzy/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/spawned.jpg	-18038
 plugins/xyzzy/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/CardImageURLs1.txt	53307420
