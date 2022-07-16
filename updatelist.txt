@@ -3,7 +3,7 @@ plugins/xyzzy/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist
 plugins/xyzzy/formats.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/formats.txt	101807
 plugins/xyzzy/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/plugininfo.txt	338428
 plugins/xyzzy/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/pluginpreferences.txt	192429
-plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	33133
+plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	33823
 plugins/xyzzy/packs/packdefinitions.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions.txt	1726794
 plugins/xyzzy/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions1.xml	256160
 plugins/xyzzy/packs/packdefinitions2.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions2.xml	1690263
