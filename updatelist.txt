@@ -58,7 +58,6 @@ plugins/xyzzy/sets/thronewar.txt	https://raw.githubusercontent.com/merlinofchaos
 plugins/xyzzy/sets/twofistedtales.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/twofistedtales.txt	3219455
 plugins/xyzzy/sets/yearofthedragon.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthedragon.txt	2447505
 plugins/xyzzy/sets/yearofthegoat.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthegoat.txt	3979482
-plugins/xyzzy/sets/.DS_Store	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/.DS_Store	3463
 plugins/xyzzy/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/cardback.jpg	-44355
 plugins/xyzzy/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/spawned.jpg	-18038
 plugins/xyzzy/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/CardImageURLs1.txt	53307420
