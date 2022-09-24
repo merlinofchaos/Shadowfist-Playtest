@@ -1,9 +1,9 @@
-xyzzy	07-16-22
+xyzzy	09-24-22
 plugins/xyzzy/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/bot.jpg	-6212
 plugins/xyzzy/formats.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/formats.txt	101807
 plugins/xyzzy/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/plugininfo.txt	338428
 plugins/xyzzy/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/pluginpreferences.txt	192429
-plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	33823
+plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	31774
 plugins/xyzzy/packs/packdefinitions.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions.txt	1726794
 plugins/xyzzy/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions1.xml	256160
 plugins/xyzzy/packs/packdefinitions2.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions2.xml	1690263
@@ -30,7 +30,7 @@ plugins/xyzzy/packs/yearofthedragon-starter.jpg	https://raw.githubusercontent.co
 plugins/xyzzy/sets/7masters.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/7masters.txt	3230438
 plugins/xyzzy/sets/10kbullets.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/10kbullets.txt	3498889
 plugins/xyzzy/sets/backforseconds.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/backforseconds.txt	1693082
-plugins/xyzzy/sets/betteroffdead.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/betteroffdead.txt	1213731
+plugins/xyzzy/sets/betteroffdead.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/betteroffdead.txt	1181967
 plugins/xyzzy/sets/bettertomorrow.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/bettertomorrow.txt	3475010
 plugins/xyzzy/sets/betteryesterday.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/betteryesterday.txt	715977
 plugins/xyzzy/sets/boomchakalaka.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/boomchakalaka.txt	2004010
@@ -60,6 +60,6 @@ plugins/xyzzy/sets/yearofthedragon.txt	https://raw.githubusercontent.com/merlino
 plugins/xyzzy/sets/yearofthegoat.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthegoat.txt	3979482
 plugins/xyzzy/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/cardback.jpg	-44355
 plugins/xyzzy/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/spawned.jpg	-18038
-plugins/xyzzy/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/CardImageURLs1.txt	53307420
+plugins/xyzzy/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/CardImageURLs1.txt	53325412
 CardURLFiles:
 CardImageURLs1.txt

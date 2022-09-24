@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220716</lastupdateYYMMDD>
+<lastupdateYYMMDD>220924</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Fix Arc, Syn and 7m resources on proxy images.</message>
+<message>Updated Better Off Dead</message>
 </version>
