@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220924</lastupdateYYMMDD>
+<lastupdateYYMMDD>230103</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Updated Better Off Dead</message>
+<message>ABT v2.2, ABY v2.1, BOD v1.2</message>
 </version>
