@@ -560,8 +560,8 @@ bettertomorrow/reveille_1.png	https://raw.githubusercontent.com/merlinofchaos/Sh
 bettertomorrow/spiked_war_rig_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/spiked_war_rig_1.png
 bettertomorrow/soul_fire_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/soul_fire_1.png
 bettertomorrow/facilitator_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/facilitator_1.png
-bettertomorrow/mr_rhee_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/mr_rhee_1.png
 bettertomorrow/johann_bonengel_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/johann_bonengel_1.png
+bettertomorrow/sprung_li_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/sprung_li_1.png
 bettertomorrow/dream_team_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/dream_team_1.png
 bettertomorrow/curse_of_binding_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/curse_of_binding_1.png
 bettertomorrow/hohman_station_alpha_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/hohman_station_alpha_1.png
@@ -620,7 +620,7 @@ betteryesterday/larcenous_fog_4.png	https://raw.githubusercontent.com/merlinofch
 betteryesterday/aide_de_camp_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteryesterday/aide_de_camp_3.png
 betteryesterday/spartan_warriors_4.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteryesterday/spartan_warriors_4.png
 betteryesterday/ice_vixen_4.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteryesterday/ice_vixen_4.png
-betteryesterday/chain_lighting_4.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteryesterday/chain_lighting_4.png
+betteryesterday/chain_lightning_4.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteryesterday/chain_lightning_4.png
 betteryesterday/contract_of_the_fox_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteryesterday/contract_of_the_fox_2.png
 betteryesterday/cat_tactics_5.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteryesterday/cat_tactics_5.png
 betteryesterday/invincible_chi_4.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteryesterday/invincible_chi_4.png
