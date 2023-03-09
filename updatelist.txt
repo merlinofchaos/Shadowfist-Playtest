@@ -1,9 +1,9 @@
-xyzzy	03-08-23
+xyzzy	03-09-23
 plugins/xyzzy/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/bot.jpg	-6212
 plugins/xyzzy/formats.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/formats.txt	101807
 plugins/xyzzy/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/plugininfo.txt	435265
 plugins/xyzzy/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/pluginpreferences.txt	192429
-plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	32224
+plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	32325
 plugins/xyzzy/packs/packdefinitions.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions.txt	1726794
 plugins/xyzzy/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions1.xml	256160
 plugins/xyzzy/packs/packdefinitions2.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions2.xml	1690263
@@ -55,7 +55,7 @@ plugins/xyzzy/decks/_precon-YotG-MON.dek	https://raw.githubusercontent.com/merli
 plugins/xyzzy/sets/7masters.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/7masters.txt	3206309
 plugins/xyzzy/sets/10kbullets.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/10kbullets.txt	3498404
 plugins/xyzzy/sets/backforseconds.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/backforseconds.txt	1694406
-plugins/xyzzy/sets/betteroffdead.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/betteroffdead.txt	1564724
+plugins/xyzzy/sets/betteroffdead.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/betteroffdead.txt	1565069
 plugins/xyzzy/sets/bettertomorrow.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/bettertomorrow.txt	3430893
 plugins/xyzzy/sets/betteryesterday.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/betteryesterday.txt	788511
 plugins/xyzzy/sets/boomchakalaka.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/boomchakalaka.txt	2007307
