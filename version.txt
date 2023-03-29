@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230309</lastupdateYYMMDD>
+<lastupdateYYMMDD>230329</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Updated to Better Off Dead v2.0</message>
+<message>Updated to Better Off Dead v2.2, add ABT Promos</message>
 </version>

@@ -299,6 +299,21 @@ CardImageURLs:
 10kbullets/whos_the_monkey_now_10kb.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/10kbullets/whos_the_monkey_now_10kb.jpg
 10kbullets/yellow_geomancer_10kb.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/10kbullets/yellow_geomancer_10kb.jpg
 
+abtpromos/anita_dao_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/anita_dao_1.png
+abtpromos/the_burwell_incident_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/the_burwell_incident_1.png
+abtpromos/brother_rooster_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/brother_rooster_1.png
+abtpromos/wen_yahui_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/wen_yahui_1.png
+abtpromos/sam_mallory_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/sam_mallory_1.png
+abtpromos/big_joe_conner_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/big_joe_conner_1.png
+abtpromos/antiquity_age_pirate_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/antiquity_age_pirate_1.png
+abtpromos/harvest_of_jade_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/harvest_of_jade_1.png
+abtpromos/xiao_yan_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/xiao_yan_1.png
+abtpromos/gao_keung_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/gao_keung_1.png
+abtpromos/breeze_and_butterfly_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/breeze_and_butterfly_1.png
+abtpromos/greatest_fist_martial_arts_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/greatest_fist_martial_arts_1.png
+abtpromos/the_macmillan_building_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/the_macmillan_building_2.png
+abtpromos/tabula_rasa_gauntlet_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/abtpromos/tabula_rasa_gauntlet_1.png
+
 backforseconds/torch_the_place_bfs_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/backforseconds/torch_the_place_bfs_400.jpg
 backforseconds/armies_of_the_monarchs_bfs_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/backforseconds/armies_of_the_monarchs_bfs_400.jpg
 backforseconds/armorer_bfs_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/backforseconds/armorer_bfs_400.jpg
@@ -372,9 +387,8 @@ backforseconds/thousand_sword_mountain_bfs_400.jpg	https://raw.githubusercontent
 backforseconds/turbo_boost_bfs_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/backforseconds/turbo_boost_bfs_400.jpg
 
 betteroffdead/arcanosorcerer_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/arcanosorcerer_1.png
-betteroffdead/anita_dao_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/anita_dao_1.png
 betteroffdead/hell_squad_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/hell_squad_1.png
-betteroffdead/laura_villaverde_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/laura_villaverde_1.png
+betteroffdead/laura_villaverde_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/laura_villaverde_2.png
 betteroffdead/lo_kan_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/lo_kan_1.png
 betteroffdead/homo_omega_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/homo_omega_1.png
 betteroffdead/nachtshreck_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/nachtshreck_1.png
@@ -383,31 +397,15 @@ betteroffdead/char_ii_1.png	https://raw.githubusercontent.com/merlinofchaos/Shad
 betteroffdead/field_research_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/field_research_1.png
 betteroffdead/buro_armory_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/buro_armory_1.png
 betteroffdead/hands_up_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/hands_up_1.png
-betteroffdead/the_burwell_incident_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/the_burwell_incident_1.png
-betteroffdead/advanced_scouting_report_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/advanced_scouting_report_1.png
+betteroffdead/advanced_scouting_report_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/advanced_scouting_report_2.png
 betteroffdead/buromil_encampment_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/buromil_encampment_1.png
 betteroffdead/arcanowave_link_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/arcanowave_link_1.png
 betteroffdead/grafted_hellharrower_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/grafted_hellharrower_1.png
 betteroffdead/neural_grepper_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/neural_grepper_1.png
-betteroffdead/bk97_attack_chopper_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/bk97_attack_chopper_1.png
-betteroffdead/brother_rooster_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/brother_rooster_1.png
-betteroffdead/wen_yahui_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/wen_yahui_1.png
-betteroffdead/sam_mallory_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/sam_mallory_1.png
-betteroffdead/big_joe_conner_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/big_joe_conner_1.png
-betteroffdead/antiquity_age_pirate_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/antiquity_age_pirate_1.png
-betteroffdead/master_swordsman_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/master_swordsman_1.png
-betteroffdead/harvest_of_jade_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/harvest_of_jade_1.png
-betteroffdead/michael_magilla_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/michael_magilla_1.png
-betteroffdead/claw_of_fury_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/claw_of_fury_1.png
-betteroffdead/xiao_yan_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/xiao_yan_1.png
-betteroffdead/gao_keung_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/gao_keung_1.png
-betteroffdead/inexorable_corruption_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/inexorable_corruption_1.png
-betteroffdead/breeze_and_butterfly_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/breeze_and_butterfly_1.png
-betteroffdead/path_of_the_fire_righteous_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/path_of_the_fire_righteous_1.png
 betteroffdead/fortune_teller_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/fortune_teller_1.png
 betteroffdead/magic_box_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/magic_box_1.png
 betteroffdead/arcane_illusionist_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/arcane_illusionist_1.png
-betteroffdead/madame_jiang_lai_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/madame_jiang_lai_1.png
+betteroffdead/madame_jiang_lai_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/madame_jiang_lai_2.png
 betteroffdead/mimes_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/mimes_1.png
 betteroffdead/occult_geomancer_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/occult_geomancer_1.png
 betteroffdead/penrose_contortionists_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/penrose_contortionists_1.png
@@ -417,7 +415,7 @@ betteroffdead/the_makyoh_1.png	https://raw.githubusercontent.com/merlinofchaos/S
 betteroffdead/paradox_cube_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/paradox_cube_1.png
 betteroffdead/ritualistic_chanting_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/ritualistic_chanting_1.png
 betteroffdead/temporal_dislocation_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/temporal_dislocation_1.png
-betteroffdead/folded_palace_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/folded_palace_1.png
+betteroffdead/folded_palace_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/folded_palace_2.png
 betteroffdead/evil_ventriloquists_dummy_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/evil_ventriloquists_dummy_1.png
 betteroffdead/glimpse_of_paradox_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/glimpse_of_paradox_1.png
 betteroffdead/carnies_caravan_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/carnies_caravan_1.png
@@ -439,10 +437,6 @@ betteroffdead/the_mars_colony_1.png	https://raw.githubusercontent.com/merlinofch
 betteroffdead/branch_office_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/branch_office_1.png
 betteroffdead/herbert_suit_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/herbert_suit_1.png
 betteroffdead/neurolinked_sword_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/neurolinked_sword_1.png
-betteroffdead/salvage_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/salvage_1.png
-betteroffdead/greatest_fist_martial_arts_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/greatest_fist_martial_arts_1.png
-betteroffdead/the_macmillan_building_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/the_macmillan_building_1.png
-betteroffdead/tabula_rasa_gauntlet_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/betteroffdead/tabula_rasa_gauntlet_1.png
 
 bettertomorrow/bunker_security_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/bunker_security_1.png
 bettertomorrow/old_buzzard_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/bettertomorrow/old_buzzard_1.png
@@ -857,6 +851,7 @@ combatinkowloon/sifu_beumer_cik_400.jpg	https://raw.githubusercontent.com/merlin
 combatinkowloon/smiling_heaven_lake_cik_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/combatinkowloon/smiling_heaven_lake_cik_400.jpg
 combatinkowloon/soul_theft_cik_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/combatinkowloon/soul_theft_cik_400.jpg
 combatinkowloon/spit_and_baling_wire_cik_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/combatinkowloon/spit_and_baling_wire_cik_400.jpg
+combatinkowloon/stand_together_cik.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/combatinkowloon/stand_together_cik.jpg
 combatinkowloon/stone_dolmens_cik_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/combatinkowloon/stone_dolmens_cik_400.jpg
 combatinkowloon/student_of_the_dragon_cik_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/combatinkowloon/student_of_the_dragon_cik_400.jpg
 combatinkowloon/superior_kung_fu_cik_400.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/combatinkowloon/superior_kung_fu_cik_400.jpg
@@ -1866,6 +1861,7 @@ promos/the_golden_gunman_pr.jpg	https://raw.githubusercontent.com/merlinofchaos/
 promos/golden_mile_pr.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/promos/golden_mile_pr.jpg
 promos/li_mao_pr_7m.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/promos/li_mao_pr_7m.jpg
 promos/xin_ji_yang_eoe_promo.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/promos/xin_ji_yang_eoe_promo.jpg
+promos/jessica_ng_architects_ssg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/promos/jessica_ng_architects_ssg.jpg
 
 queensgambit/apprenticeship_qg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/queensgambit/apprenticeship_qg.jpg
 queensgambit/average_jane_qg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/queensgambit/average_jane_qg.jpg
@@ -1916,6 +1912,7 @@ queensgambit/thermobaric_explosion_qg.jpg	https://raw.githubusercontent.com/merl
 queensgambit/tower_of_glass_and_steel_qg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/queensgambit/tower_of_glass_and_steel_qg.jpg
 queensgambit/vampirism_qg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/queensgambit/vampirism_qg.jpg
 queensgambit/whirlwind_transformation_qg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/queensgambit/whirlwind_transformation_qg.jpg
+queensgambit/white_ninja_promo.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/queensgambit/white_ninja_promo.jpg
 queensgambit/xins_tome_of_knowledge_qg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/queensgambit/xins_tome_of_knowledge_qg.jpg
 
 redwedding/bring_it_rw.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/redwedding/bring_it_rw.jpg
@@ -2415,7 +2412,6 @@ shurikensandsixguns/hyper_alloy_blade_ssg.jpg	https://raw.githubusercontent.com/
 shurikensandsixguns/inconvenient_debt_ssg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/shurikensandsixguns/inconvenient_debt_ssg.jpg
 shurikensandsixguns/involuntary_embalming_ssg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/shurikensandsixguns/involuntary_embalming_ssg.jpg
 shurikensandsixguns/isothermal_zodiac_ssg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/shurikensandsixguns/isothermal_zodiac_ssg.jpg
-shurikensandsixguns/jessica_ng_architects_ssg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/shurikensandsixguns/jessica_ng_architects_ssg.jpg
 shurikensandsixguns/jessica_ng_ssg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/shurikensandsixguns/jessica_ng_ssg.jpg
 shurikensandsixguns/jia_baoyu_ssg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/shurikensandsixguns/jia_baoyu_ssg.jpg
 shurikensandsixguns/johann_bonengel_ssg.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/shurikensandsixguns/johann_bonengel_ssg.jpg
