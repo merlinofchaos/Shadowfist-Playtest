@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230401</lastupdateYYMMDD>
+<lastupdateYYMMDD>230406</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Update ABT + images</message>
+<message>Update to latest ABT and ABY</message>
 </version>
