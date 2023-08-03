@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230731</lastupdateYYMMDD>
+<lastupdateYYMMDD>230803</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Update SWS Errata, ABT Promos, Better Off Dead to released versions.</message>
+<message>Rainforest Rumble playtest v1.0</message>
 </version>
