@@ -1954,7 +1954,7 @@ rainforestrumble/birdwatchers_1.png	https://raw.githubusercontent.com/merlinofch
 rainforestrumble/head_of_the_hydra_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/head_of_the_hydra_1.png
 rainforestrumble/commander_lu_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/commander_lu_1.png
 rainforestrumble/curiosity_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/curiosity_1.png
-rainforestrumble/enrico_falc_ao_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/enrico_falc_ao_1.png
+rainforestrumble/enrico_falcao_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/enrico_falcao_1.png
 rainforestrumble/the_unspoken_name_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/the_unspoken_name_1.png
 rainforestrumble/von_humboldt_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/von_humboldt_1.png
 rainforestrumble/general_mark_grimshaw_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/general_mark_grimshaw_1.png
@@ -1966,7 +1966,7 @@ rainforestrumble/wealth_of_nations_1.png	https://raw.githubusercontent.com/merli
 rainforestrumble/call_of_the_wild_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/call_of_the_wild_1.png
 rainforestrumble/the_beast_within_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/the_beast_within_1.png
 rainforestrumble/global_recession_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/global_recession_1.png
-rainforestrumble/operation_lions_rampart_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/operation_lions_rampart_1.png
+rainforestrumble/operation_lion_s_rampart_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/operation_lion_s_rampart_1.png
 rainforestrumble/dart_of_the_poison_frog_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/dart_of_the_poison_frog_1.png
 rainforestrumble/natural_selection_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/natural_selection_1.png
 rainforestrumble/predatory_instincts_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/predatory_instincts_1.png
@@ -2039,7 +2039,7 @@ rainforestrumble/c_i_ape_1.png	https://raw.githubusercontent.com/merlinofchaos/S
 rainforestrumble/the_organ_grinder_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/the_organ_grinder_1.png
 rainforestrumble/empress_tama_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/empress_tama_1.png
 rainforestrumble/ancient_stone_guardian_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/ancient_stone_guardian_1.png
-rainforestrumble/potemkins_alliance_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/potemkins_alliance_1.png
+rainforestrumble/potemkin_s_alliance_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/potemkin_s_alliance_1.png
 rainforestrumble/battle_scavenge_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/battle_scavenge_1.png
 rainforestrumble/food_chain_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/food_chain_1.png
 rainforestrumble/gibbon_missile_crisis_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/gibbon_missile_crisis_1.png
