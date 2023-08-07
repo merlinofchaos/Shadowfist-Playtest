@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230805</lastupdateYYMMDD>
+<lastupdateYYMMDD>230807</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Fix smart apostrophes too</message>
+<message>Add new reminder tokens</message>
 </version>
