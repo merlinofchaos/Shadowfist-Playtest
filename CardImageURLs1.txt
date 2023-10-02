@@ -1934,7 +1934,7 @@ rainforestrumble/ablative_armor_1.png	https://raw.githubusercontent.com/merlinof
 rainforestrumble/capture_protocol_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/capture_protocol_1.png
 rainforestrumble/cannon_fodder_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/cannon_fodder_1.png
 rainforestrumble/wave_of_mutilation_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/wave_of_mutilation_1.png
-rainforestrumble/overrun_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/overrun_1.png
+rainforestrumble/overrun_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/overrun_2.png
 rainforestrumble/adrenal_rage_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/adrenal_rage_1.png
 rainforestrumble/metamorphosis_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/metamorphosis_1.png
 rainforestrumble/front_lines_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/front_lines_1.png
@@ -1988,6 +1988,7 @@ rainforestrumble/melissa_aguelera_1.png	https://raw.githubusercontent.com/merlin
 rainforestrumble/capoeira_master_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/capoeira_master_1.png
 rainforestrumble/joey_paz_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/joey_paz_1.png
 rainforestrumble/alfonso_el_torbellino_juarez_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/alfonso_el_torbellino_juarez_1.png
+rainforestrumble/jack_donovan_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/jack_donovan_1.png
 rainforestrumble/warren_church_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/warren_church_1.png
 rainforestrumble/little_jim_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/little_jim_1.png
 rainforestrumble/loose_cannons_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/loose_cannons_1.png
@@ -2004,6 +2005,7 @@ rainforestrumble/rainforest_revolutionaries_2.png	https://raw.githubusercontent.
 rainforestrumble/medicinal_gardener_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/medicinal_gardener_1.png
 rainforestrumble/monks_of_tao_lo_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/monks_of_tao_lo_1.png
 rainforestrumble/golden_sky_koi_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/golden_sky_koi_1.png
+rainforestrumble/old_man_wu_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/old_man_wu_1.png
 rainforestrumble/rainforest_gardener_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/rainforest_gardener_1.png
 rainforestrumble/drunk_of_the_north_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/drunk_of_the_north_1.png
 rainforestrumble/peasant_archers_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/peasant_archers_1.png
@@ -2028,7 +2030,7 @@ rainforestrumble/blunt_the_cranes_beak_1.png	https://raw.githubusercontent.com/m
 rainforestrumble/monkey_wench_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/monkey_wench_1.png
 rainforestrumble/post_modern_malcontents_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/post_modern_malcontents_1.png
 rainforestrumble/spyder_monkey_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/spyder_monkey_3.png
-rainforestrumble/really_great_apes_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/really_great_apes_1.png
+rainforestrumble/really_great_apes_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/really_great_apes_2.png
 rainforestrumble/madcap_experiment_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/madcap_experiment_1.png
 rainforestrumble/potemkins_guard_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/potemkins_guard_1.png
 rainforestrumble/potemkins_rebels_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/potemkins_rebels_1.png
@@ -2041,6 +2043,7 @@ rainforestrumble/old_man_z_2.png	https://raw.githubusercontent.com/merlinofchaos
 rainforestrumble/the_organ_grinder_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/the_organ_grinder_1.png
 rainforestrumble/empress_tama_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/empress_tama_1.png
 rainforestrumble/ancient_stone_guardian_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/ancient_stone_guardian_1.png
+rainforestrumble/orango_tank_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/orango_tank_1.png
 rainforestrumble/potemkins_alliance_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/potemkins_alliance_3.png
 rainforestrumble/battle_scavenge_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/battle_scavenge_1.png
 rainforestrumble/food_chain_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/food_chain_2.png
@@ -2072,7 +2075,7 @@ rainforestrumble/mapinguari_2.png	https://raw.githubusercontent.com/merlinofchao
 rainforestrumble/xin_ji_yang_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/xin_ji_yang_1.png
 rainforestrumble/hemomantic_communion_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/hemomantic_communion_2.png
 rainforestrumble/imperial_edict_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/imperial_edict_1.png
-rainforestrumble/dimensional_prison_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/dimensional_prison_1.png
+rainforestrumble/dimensional_prison_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/dimensional_prison_2.png
 rainforestrumble/xitllalis_vengeance_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/xitllalis_vengeance_1.png
 rainforestrumble/witness_my_limitless_power_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/witness_my_limitless_power_2.png
 rainforestrumble/petals_knell_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/petals_knell_1.png
@@ -2170,6 +2173,7 @@ rainforestrumble/drone_1.png	https://raw.githubusercontent.com/merlinofchaos/Sha
 rainforestrumble/lone_wolf_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/lone_wolf_1.png
 rainforestrumble/the_devils_advocate_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/the_devils_advocate_2.png
 rainforestrumble/maverick_freebooter_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/maverick_freebooter_1.png
+rainforestrumble/old_man_zimm_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/old_man_zimm_1.png
 rainforestrumble/cabal_ritualist_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/cabal_ritualist_1.png
 rainforestrumble/novice_swordsman_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/novice_swordsman_2.png
 rainforestrumble/fanatic_ascetic_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/fanatic_ascetic_1.png
