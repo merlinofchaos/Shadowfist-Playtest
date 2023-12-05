@@ -2049,7 +2049,7 @@ rainforestrumble/la_sayona_1.png	https://raw.githubusercontent.com/merlinofchaos
 rainforestrumble/massacooramaan_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/massacooramaan_1.png
 rainforestrumble/walker_of_the_purple_twilight_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/walker_of_the_purple_twilight_1.png
 rainforestrumble/xin_ji_yang_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/xin_ji_yang_2.png
-rainforestrumble/el_hombre_caim_n_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/el_hombre_caim_n_2.png
+rainforestrumble/el_hombre_caiman_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/el_hombre_caiman_2.png
 rainforestrumble/mapinguari_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/mapinguari_2.png
 rainforestrumble/jueding_xiulan_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/jueding_xiulan_3.png
 rainforestrumble/imperial_edict_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/imperial_edict_3.png

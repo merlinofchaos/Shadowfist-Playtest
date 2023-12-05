@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>231116</lastupdateYYMMDD>
+<lastupdateYYMMDD>231205</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Update to Rainforest Rumble v2.0</message>
+<message>Fix broken characters in 2 cards</message>
 </version>
