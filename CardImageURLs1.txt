@@ -1946,7 +1946,7 @@ rainforestrumble/squeeze_of_the_anaconda_1.png	https://raw.githubusercontent.com
 rainforestrumble/curiosity_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/curiosity_2.png
 rainforestrumble/wetworks_team_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/wetworks_team_1.png
 rainforestrumble/birdwatchers_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/birdwatchers_1.png
-rainforestrumble/enrico_falc_o_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/enrico_falc_o_1.png
+rainforestrumble/enrico_falcao_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/enrico_falcao_1.png
 rainforestrumble/von_humboldt_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/von_humboldt_3.png
 rainforestrumble/commander_lu_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/commander_lu_2.png
 rainforestrumble/general_mark_grimshaw_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/general_mark_grimshaw_1.png
@@ -1972,7 +1972,7 @@ rainforestrumble/tattooed_girl_2.png	https://raw.githubusercontent.com/merlinofc
 rainforestrumble/capoeira_master_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/capoeira_master_2.png
 rainforestrumble/cassie_abel_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/cassie_abel_3.png
 rainforestrumble/joey_paz_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/joey_paz_1.png
-rainforestrumble/alfonso_el_torbellino_ju_rez_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/alfonso_el_torbellino_ju_rez_2.png
+rainforestrumble/alfonso_el_torbellino_juarez_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/alfonso_el_torbellino_juarez_2.png
 rainforestrumble/jack_donovan_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/jack_donovan_1.png
 rainforestrumble/melissa_aguelera_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/melissa_aguelera_1.png
 rainforestrumble/little_jim_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/rainforestrumble/little_jim_2.png
