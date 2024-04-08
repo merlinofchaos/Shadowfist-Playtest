@@ -5,3 +5,4 @@ Stunned	swstokens	stunned_1.png	Token	Unaligned	Reminder	0				0	0	Fixed	stunned 
 Further From Victory	swstokens	further_from_victory_1.png	Token	Unaligned	Reminder	0				0	0	Fixed	further from victory reminder	Place this card in your Burned For Victory pile to indicate that you now need an additional site to win.	
 Upgraded	swstokens	upgraded_1.png	Token	Unaligned	Reminder	0				0	0	Fixed	upgraded reminder	Use this card as a reminder that subject was played with an upgrade cost.	
 Canceled	swstokens	canceled_1.png	Token	Unaligned	Reminder	0				0	0	Fixed	canceled reminder	Use this card as a reminder that subject has been canceled. Discard upon expiration.	
+Toast It!	swstokens	toast_it_1.png	Token	Unaligned	Reminder	0				0	0	Fixed	toast it reminder	Use this card as a reminder that subject will be toasted when it leaves play.	
