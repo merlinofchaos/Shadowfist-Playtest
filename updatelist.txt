@@ -1,9 +1,9 @@
-xyzzy	04-08-24
+xyzzy	07-19-24
 plugins/xyzzy/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/bot.jpg	-6212
 plugins/xyzzy/formats.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/formats.txt	101807
 plugins/xyzzy/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/plugininfo.txt	435265
 plugins/xyzzy/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/pluginpreferences.txt	0
-plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	31698
+plugins/xyzzy/version.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt	31704
 plugins/xyzzy/packs/packdefinitions.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions.txt	1726794
 plugins/xyzzy/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions1.xml	256160
 plugins/xyzzy/packs/packdefinitions2.xml	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/packs/packdefinitions2.xml	1690263
@@ -73,7 +73,7 @@ plugins/xyzzy/sets/netherworld.txt	https://raw.githubusercontent.com/merlinofcha
 plugins/xyzzy/sets/netherworld2.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/netherworld2.txt	3944129
 plugins/xyzzy/sets/promos.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/promos.txt	260774
 plugins/xyzzy/sets/queensgambit.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/queensgambit.txt	1406316
-plugins/xyzzy/sets/rainforestrumble.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/rainforestrumble.txt	6776201
+plugins/xyzzy/sets/rainforestrumble.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/rainforestrumble.txt	6617632
 plugins/xyzzy/sets/redwedding.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/redwedding.txt	2957285
 plugins/xyzzy/sets/reinforcements.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/reinforcements.txt	1226717
 plugins/xyzzy/sets/reloaded.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/reloaded.txt	1163613
@@ -89,6 +89,6 @@ plugins/xyzzy/sets/yearofthedragon.txt	https://raw.githubusercontent.com/merlino
 plugins/xyzzy/sets/yearofthegoat.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/yearofthegoat.txt	3979381
 plugins/xyzzy/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/cardback.jpg	-44355
 plugins/xyzzy/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/general/spawned.jpg	-18038
-plugins/xyzzy/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/CardImageURLs1.txt	57928118
+plugins/xyzzy/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/CardImageURLs1.txt	57836246
 CardURLFiles:
 CardImageURLs1.txt
