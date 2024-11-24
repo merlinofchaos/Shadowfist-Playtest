@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>240903</lastupdateYYMMDD>
+<lastupdateYYMMDD>241124</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>Rainforest Rumble 4.0</message>
+<message>Rainforest Rumble v4.1</message>
 </version>
