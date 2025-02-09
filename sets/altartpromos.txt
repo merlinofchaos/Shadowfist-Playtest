@@ -1,6 +1,5 @@
 Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
 Arcanomoth	altartpromos	arcanomoth_1.png	Character	Architects of the Flesh	Metamorphic Abomination	2		{arc}{tek}	2			Fixed	arcano moth metamorphic abomination	Upgrade {arc}{arc}{arc}4: 6 Fighting. Toughness: 1.	
-Arcanomoth (Upgraded)	altartpromos	arcanomoth_upgraded_1.png	Character	Architects of the Flesh	Metamorphic Abomination	4	{arc}{arc}{arc}	{arc}{tek}	6			Fixed	arcano moth upgraded metamorphic abomination	(Cannot be included in Decks) Upgraded. Toughness: 1	
 Old Man Wu	altartpromos	old_man_wu_2.png	Character	Guiding Hand	Master of the Monkey Style	5	{han}{han}	{han}{chi}	7			Fixed	old man wu master monkey style	Unique. You may redirect exactly 1 damage from each source that would damage this card to any Character in play.	
 Orango Tank	altartpromos	orango_tank_1.png	Character	Jammers	Ground-Assault Monkey	6	{jam}{jam}{jam}{tek}	{jam}{tek}	10			Fixed	orango tank ground assault monkey	Unique. Toughness: 1. All Characters at the location of the target of this card's attack must be declared as interceptors.	
 Outlaw Bikers	altartpromos	outlaw_bikers_1.png	Character	Jammers	Easy Riders	2	{jam}{jam}	{jam}	2			Fixed	outlaw biker easy rider	Mobility. Once during your Main Shot, you may play a Weapon or Vehicle from your smoked pile on this card.	
