@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>251201</lastupdateYYMMDD>
+<lastupdateYYMMDD>251203</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/updatelist.txt</updateurl>
-<message>TBP v0.3</message>
+<message>TBP v0.3.1 -- update 4 cards that did not get version bumps.</message>
 </version>

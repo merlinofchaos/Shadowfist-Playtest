@@ -3137,7 +3137,7 @@ tbp/double_agent_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfis
 tbp/rogue_operative_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/rogue_operative_2.png
 tbp/synthetics_hunter_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/synthetics_hunter_3.png
 tbp/tom_deuce_mitchell_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/tom_deuce_mitchell_2.png
-tbp/agent_six_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/agent_six_2.png
+tbp/agent_six_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/agent_six_3.png
 tbp/investigative_journalism_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/investigative_journalism_3.png
 tbp/in_the_vents_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/in_the_vents_2.png
 tbp/whistleblower_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/whistleblower_1.png
@@ -3147,7 +3147,7 @@ tbp/consulate_agent_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadow
 tbp/counter_intelligence_officer_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/counter_intelligence_officer_2.png
 tbp/emily_cheung_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/emily_cheung_3.png
 tbp/diplomatic_immunity_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/diplomatic_immunity_2.png
-tbp/blown_network_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/blown_network_2.png
+tbp/blown_network_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/blown_network_3.png
 tbp/the_b_team_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/the_b_team_2.png
 tbp/rambotang_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/rambotang_3.png
 tbp/macaque_to_the_future_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/macaque_to_the_future_2.png
@@ -3175,9 +3175,9 @@ tbp/croupier_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Pl
 tbp/casino_security_system_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/casino_security_system_2.png
 tbp/the_number_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/the_number_2.png
 tbp/the_hot_streak_1.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/the_hot_streak_1.png
-tbp/dark_crystals_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/dark_crystals_3.png
+tbp/dark_crystals_4.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/dark_crystals_4.png
 tbp/infinite_improbability_machine_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/infinite_improbability_machine_3.png
-tbp/sleight_of_hand_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/sleight_of_hand_2.png
+tbp/sleight_of_hand_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/sleight_of_hand_3.png
 tbp/casino_cabal_2.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/casino_cabal_2.png
 tbp/informer_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/informer_3.png
 tbp/the_woman_from_mairax_3.png	https://raw.githubusercontent.com/merlinofchaos/Shadowfist-Playtest/master/sets/setimages/tbp/the_woman_from_mairax_3.png
